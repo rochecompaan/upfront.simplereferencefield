@@ -1,0 +1,14 @@
+Changelog
+=========
+
+0.5.1
+-----
+
+* Make a new release with only a source distribution. Egg distribution
+does not install properly with buildout.
+
+0.5
+---
+
+* Initial release
+
